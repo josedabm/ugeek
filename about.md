@@ -8,4 +8,4 @@ Podcast de Tecnología que hablo de Linux, Raspberry Pi, servidores y tecnologí
 
 ![uGeek](img/ugeek.png "uGeek")
 
-Esta es la página web del podcast de uGeek.
+![cc](http://mirrors.creativecommons.org/presskit/logos/cc.logo.large.png)
