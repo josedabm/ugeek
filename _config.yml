@@ -1,11 +1,11 @@
 # Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
+title: uGeek
+description: "Podcast de Tecnología que hablo de Linux, Raspberry Pi, servidores y tecnología en general."
+url: "https://angelbcn.github.io/ugeek/"
 author:
-  name: "Jacopo Rabolini"
+  name: "Angel"
   email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  url: "https://angelbcn.github.io/ugeek/"
 
 # Build settings
 baseurl: /ugeek/ # Change this to your relative path (ex: /blog/), or leave just a /
