@@ -4,6 +4,8 @@ title: Sobre uGeek
 ---
 ## About
 
-![uGeek](img/uGeek.png "uGeek")
+Podcast de Tecnología que hablo de Linux, Raspberry Pi, servidores y tecnología en general.
+
+![uGeek](img/ugeek.png "uGeek")
 
 Esta es la página web del podcast de uGeek.
