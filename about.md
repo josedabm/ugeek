@@ -14,8 +14,9 @@ Periodicamente me cruzo con mi amigo Frank de [bateria2x100](https://feedpress.m
 ![Bateria2x100](img/bateria2x100.jpg)
 
 Últimamente tambien ha habido un nuevo Crossover con el [MosqueteroWeb](https://www.spreaker.com/user/8370551/episodes/feed) y "Trissover".  
+
 Para que despues digan que todo en el mundo del podcast, ya está inventado. Lo que no so se nos ocurra a mi y a Frank, jajaja.  
 
-Desde la web podreis acceder también a todos los audios. Pero para que os sea mas simple, os recomendaría que os instalarais una aplicación de podcast, os suscribais a los Feeds y tal como lleguen nuevas publicaciones, podrais escucharlas.  
+Desde la web podreis acceder también a todos los audios. Pero para que os sea mas simple, os recomendaría que os instalarais una aplicación de podcast, os suscribais a los Feeds y tal como lleguen nuevas publicaciones, podreis escucharlas.  
 
 ![os](img/os.png)
