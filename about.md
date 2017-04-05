@@ -18,4 +18,3 @@ Para que despues digan que todo en el mundo del podcast, ya está inventado. Lo 
 Desde la web podreis acceder también a todos los audios. Pero para que os sea mas simple, os recomendaría que os instalarais una aplicación de podcast, os suscribais a los Feeds y tal como lleguen nuevas publicaciones, podrais escucharlas.
 
 ![os](img/os.png)
-![forkme](img/forkme.png)(https://github.com/AngelBCN/ugeek)
