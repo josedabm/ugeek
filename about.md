@@ -7,7 +7,7 @@ title: Sobre uGeek
 
 
 Esta es la página principal del Podcast de uGeek donde a ratos, os explico mis progresos, opiniones y un poco de todo del mundo de la tecnología. Comparto mis conocimentos, sin ser experto, por si os puede ser de ayuda o inspiraros.
-Periodicamente me cruzo con mi amigo Frank de [bateria2x100](https://feedpress.me/bateria2x100) dentro de mi podcast y apareciento tambien en el suyo, creando un nuevo concepto antes nunca visto en el mundo del podcast, el "Crossover",  debatimos diferente puntos de vista de las mismas cosas y compartiendo una charla agradable.
+Periodicamente me cruzo con mi amigo Frank de [bateria2x100](https://feedpress.me/bateria2x100) dentro de mi podcast, apareciento tambien en el suyo, creando un nuevo concepto antes nunca visto en el mundo del podcast, el "Crossover" y debatimos diferente puntos de vista de las mismas cosas, compartiendo una charla agradable.
 ![Bateria2x100](img/bateria2x100.jpg)
 
 Últimamente tambien ha habido un nuevo Crossover con el [MosqueteroWeb](https://www.spreaker.com/user/8370551/episodes/feed) y "Trissover".
