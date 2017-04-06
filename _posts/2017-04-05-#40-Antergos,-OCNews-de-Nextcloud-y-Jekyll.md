@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "#40 Antergos, Ocnews De Nextcloud Y Jekyll"
 file: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3
+block: "no" #means is shown in itunes
 ---
 <iframe src="https://archive.org/embed/40AntergosOCNewsDeNextcloudYJekyll" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
 
