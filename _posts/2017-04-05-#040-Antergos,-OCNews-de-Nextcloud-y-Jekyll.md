@@ -1,4 +1,21 @@
 ---
+title: 40
+subtitle: Getting Started Is Never Easy
+datum: March 22nd 2016
+layout: post
+author: Arne and Stefan
+explicit: 'no'
+duration: "0:03:13"
+audio: 
+  mp3: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3
+  
+chapters:
+  - '00:00:00.000 Intro.'
+  - '00:00:01.000 ... Shoubidoubidoo ...'
+  - '00:00:02.000 Outro.'
+---
+
+
 layout: post
 title: "#40 Antergos, Ocnews De Nextcloud Y Jekyll"
 file: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3
