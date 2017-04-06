@@ -1,5 +1,10 @@
 ---
 Title: #039 Aplicación Notes de Nextcloud y crea tus bots de Telegram
+title_lowercase: 
+tags: tutorial, screencast, technology, development, api, facebook, twitter, foursquare, flickr, github, google maps, jquery, getjson, json
+description:test
+permalink: /api/
+enclosure: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3
 ---
 
 <iframe src="https://archive.org/embed/039TelegramNotes" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
