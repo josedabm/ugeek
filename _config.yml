@@ -33,16 +33,6 @@ gems:
 #Google Analitics
 google_analytics: UA-96879567-1
 
-# Podcast Feed Settings
-
-title:          uGeek
-email:          ugeekpodcast@gmail.com
-description:    "Podcast de Tecnología en el que hablo de Linux, Raspberry Pi, servidores y tecnología en general."
-subtitle:       "Podcast de Tecnología en el que hablo de Linux, Raspberry Pi, servidores y tecnología en general."
-url:            angelbcn.github.io/ugeek/
-lang:           Español
-author:         Angel
-
 # Custom variables
 version: "1.1.0"
 
