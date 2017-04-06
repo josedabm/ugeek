@@ -1,3 +1,7 @@
+---
+title: "#40 Antergos, Ocnews De Nextcloud Y Jekyll"
+file: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3
+---
 <iframe src="https://archive.org/embed/40AntergosOCNewsDeNextcloudYJekyll" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
 
 ![jekyll](img/pod/jekyll.png)
@@ -12,5 +16,3 @@ Sabéis que tenemos [Grupo en Telegram](https://t.me/joinchat/AAAAAEGgxsbMjSliSW
 
 Y [Canal en Telegram](https://t.me/uGeek)
 
-
-<link rel='enclosure' type='audio/mpeg' href='https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3' length='0'/>
