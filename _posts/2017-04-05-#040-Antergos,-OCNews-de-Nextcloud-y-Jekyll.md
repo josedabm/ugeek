@@ -1,8 +1,8 @@
 ---
-title: 028 API
-title_lowercase: 028 api
+title: #040 Antergos
+title_lowercase: 
 tags: tutorial, screencast, technology, development, api, facebook, twitter, foursquare, flickr, github, google maps, jquery, getjson, json
-description: API or application programming interface is a protocol to communicate with other software components. In the world of web API, content created in one place can be displayed or updated from another location in the web. In this episode, we will create a little fun memory page for 2012 using Facebook, Twitter, Foursquare, Github, Flickr and Google Maps API.
+description:test
 permalink: /api/
 enclosure: https://ia801504.us.archive.org/29/items/40AntergosOCNewsDeNextcloudYJekyll/%2340%20Antergos%2c%20OCNews%20de%20Nextcloud%20y%20Jekyll%20.mp3
 ---
