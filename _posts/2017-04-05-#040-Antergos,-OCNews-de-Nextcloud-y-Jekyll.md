@@ -1,11 +1,4 @@
----
-title: #040 Antergos
-title_lowercase: 
-tags: tutorial, screencast, technology, development, api, facebook, twitter, foursquare, flickr, github, google maps, jquery, getjson, json
-description:test
-permalink: /api/
-enclosure: https://ia801504.us.archive.org/29/items/40AntergosOCNewsDeNextcloudYJekyll/%2340%20Antergos%2c%20OCNews%20de%20Nextcloud%20y%20Jekyll%20.mp3
----
+
 <iframe src="https://archive.org/embed/40AntergosOCNewsDeNextcloudYJekyll" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
 
 ![jekyll](img/pod/jekyll.png)
