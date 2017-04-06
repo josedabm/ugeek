@@ -1,11 +1,10 @@
-
 ---
-
-
-layout: post
-title: "#40 Antergos, Ocnews De Nextcloud Y Jekyll"
-file: https://ia601508.us.archive.org/2/items/039TelegramNotes/%23039%20Telegram%2c%20Notes.mp3
-block: "no" #means is shown in itunes
+title: 028 API
+title_lowercase: 028 api
+tags: tutorial, screencast, technology, development, api, facebook, twitter, foursquare, flickr, github, google maps, jquery, getjson, json
+description: API or application programming interface is a protocol to communicate with other software components. In the world of web API, content created in one place can be displayed or updated from another location in the web. In this episode, we will create a little fun memory page for 2012 using Facebook, Twitter, Foursquare, Github, Flickr and Google Maps API.
+permalink: /api/
+enclosure: https://ia801504.us.archive.org/29/items/40AntergosOCNewsDeNextcloudYJekyll/%2340%20Antergos%2c%20OCNews%20de%20Nextcloud%20y%20Jekyll%20.mp3
 ---
 <iframe src="https://archive.org/embed/40AntergosOCNewsDeNextcloudYJekyll" width="500" height="30" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>  
 
