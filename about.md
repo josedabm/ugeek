@@ -72,8 +72,39 @@ rssfeed_cache = "332bc463f0c39f75f95586c12f61309e";
 <div style="text-align:right; width:300px;"><a href="http://www.surfing-waves.com/feed.htm" target="_blank" style="color:#ccc;font-size:10px">widget @</a> <a href="http://www.surfing-waves.com" target="_blank" style="color:#ccc;font-size:10px">surfing-waves.com</a></div> 
 <!-- end sw-rss-feed code -->  
 
-<a data-pocket-label="pocket" data-pocket-count="horizontal" class="pocket-btn" data-lang="en"></a>
-<script type="text/javascript">!function(d,i){if(!d.getElementById(i)){var j=d.createElement("script");j.id=i;j.src="https://widgets.getpocket.com/v1/j/btn.js?v=1";var w=d.getElementById(i);d.body.appendChild(j);}}(document,"pocket-btn-js");</script>  
+
+<?php
+if (!class_exists('HTMLElement')) {
+	class HTMLElement {
+		private static $aSelfClose = array('area','base','br','col','command','embed','hr','inpu','imgt','keygen','link','meta','param','source','track','wbr');
+		public static function get($type,$attr=array(),$html=''){
+			$hasHTML = !empty($html);
+			if (gettype($attr)==='string') {
+				$attr = array('class'=>$attr);
+			}
+			$sReturn = $hasHTML||!in_array($type,self::$aSelfClose)
+				?'<'.$type.self::getAttrString($attr).'>'.$html.'</'.$type.'>'
+				:'<'.$type.self::getAttrString($attr).' />';
+			return $sReturn;
+		}
+		private static function getAttrString($attr=array()) {
+			$bAttr = count($attr)>0;
+			$sAttr = $bAttr?' ':'';
+			if ($bAttr) {
+				foreach ($attr as $k=>$v) {
+					@$sAttr .= is_numeric($k)?$v.' ':$k.'="'.$v.'" ';
+				}
+			}
+			return $sAttr;
+		}
+	}
+}
+if (!function_exists('elm')) {
+	function elm($type,$attr=array(),$html=''){
+		return HTMLElement::get($type,$attr,$html);
+	}
+}
+
 
 
 ![os](img/os.png)
