@@ -35,7 +35,7 @@ google_analytics: UA-96879567-1
 
 # Podcast Feed Settings
 podcast_url: https://angelbcn.github.io/ugeek/
-podcast_album_art: /img/ugeek.png
+podcast_album_art: https://archive.org/download/ugeek/ugeek.png
 podcast_title: uGeek
 podcast_owner: Angel
 podcast_email: ugeekpodcast@gmail.com
