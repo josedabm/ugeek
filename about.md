@@ -21,5 +21,6 @@ Periódicamente me cruzo con mi amigo Frank de [bateria2x100](https://feedpress.
 Para que después digan que todo en el mundo del podcast, ya está inventado. Lo que no se nos ocurra a mi y a Frank, jajaja.  
 
 Desde la web podréis acceder también a todos los audios. Pero para que os sea más simple, os recomendaría que os instalarais una aplicación de podcast, os suscribais a los Feeds y tal como lleguen nuevas publicaciones, podréis escucharlas.  
+
 <a class="twitter-timeline" href="https://twitter.com/uGeekPodcast">Tweets by uGeekPodcast</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 ![os](img/os.png)
