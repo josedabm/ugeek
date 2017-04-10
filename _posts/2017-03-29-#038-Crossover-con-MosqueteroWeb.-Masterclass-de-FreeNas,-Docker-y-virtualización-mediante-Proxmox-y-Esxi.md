@@ -1,5 +1,9 @@
 ---
-Title: #038 Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi.
+title: #038 Crossover con MosqueteroWeb. Masterclass de FreeNas, Docker y virtualización mediante Proxmox y Esxi.
+date:   2015-10-20
+categories: podcast
+image: https://1.bp.blogspot.com/-vqTS9qMkQsg/WOFPao3zJRI/AAAAAAAAA7U/bgVDoVUz5iYwL-4RikxlKC18bAN3D2DCgCLcB/s1600/telegram_logo.png
+podcast_link: https://ia601506.us.archive.org/26/items/38CrossoverConMosqueteroWeb/%23%2038%20Crossover%20con%20MosqueteroWeb.mp3
 ---
 
 <iframe src="https://archive.org/embed/38CrossoverConMosqueteroWeb" width="500" height="140" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
