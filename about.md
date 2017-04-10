@@ -5,6 +5,8 @@ title: Sobre uGeek
 
 ![ugeek](img/ugeek_250p.png)
 
+<iframe src="https://www.ivoox.com/player_es_podcast_383493_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>  
+
 Esta es la página principal del Podcast de uGeek donde a ratos os explico mis progresos, opiniones y un poco de todo del mundo de la tecnología. Comparto mis conocimentos, sin ser experto, por si os puede ser de ayuda o inspiraros.  
 
 Los podcast los podréis escuchar mediante mi [Feed](http://feeds.feedburner.com/ugeek), esta web [ugeekpodcast.tk](https://angelbcn.github.io/ugeek/) y la web de [Infosertec.com.ar](http://infosertec.com.ar), donde di covertura en el Mobile World Congress 2017 y donde amenudo publico también alguno de mis artículos. Os recomiendo igualmente el podcast [RadioGeek](http://www.ivoox.com/podcast-radiogeek_sq_f129471_1.html)
